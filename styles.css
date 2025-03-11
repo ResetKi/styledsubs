@@ -1,0 +1,10 @@
+body {
+  background-color: lightgray;
+}
+
+video {
+  margin: auto;
+  display: block;
+  border-radius: 15px;
+  box-shadow: 4px 4px 12px gray;
+}
