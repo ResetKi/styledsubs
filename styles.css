@@ -14,11 +14,3 @@ video {
   border-radius: 15px;
   box-shadow: 4px 4px 12px gray;
 }
-
-/*Positioning code from https://www.speechpad.com/captions/webvtt#toc_14 */
-video :: cue {
-  color: white;
-  background-color: black;
-  position: 0%;
-  align: start;
-}
